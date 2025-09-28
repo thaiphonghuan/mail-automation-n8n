@@ -1,0 +1,1 @@
+# mail-automation-n8n
